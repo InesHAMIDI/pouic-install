@@ -135,4 +135,10 @@ dist
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
-/sonarlint/
+/sonarlint
+.idea/*
+# ---- IntelliJ IDEA
+*.iws
+*.iml
+*.ipr
+.idea
