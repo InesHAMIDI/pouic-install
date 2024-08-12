@@ -1,0 +1,15 @@
+{
+  "name": "pouic-install",
+  "version": "1.0.0",
+  "description": "A windows installer",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "author": "Toki",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^31.3.1"
+  }
+}
