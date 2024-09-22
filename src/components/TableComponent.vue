@@ -1,13 +1,9 @@
 <script>
 export default {
-  name: "TableComponent"
-}
+  name: "TableComponent",
+};
 </script>
 
-<template>
-TEST
-</template>
+<template></template>
 
-<style scoped>
-
-</style>
+<style scoped></style>
